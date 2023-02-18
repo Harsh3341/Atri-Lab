@@ -208,6 +208,21 @@ const desktopModeProps = {
     "Flex62": {
       "callbacks": {}
     },
+    "Flex44": {
+      "callbacks": {}
+    },
+    "Flex66": {
+      "callbacks": {}
+    },
+    "Flex67": {
+      "callbacks": {}
+    },
+    "Flex69": {
+      "callbacks": {}
+    },
+    "Flex68": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -858,9 +873,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex44": {
-      "callbacks": {}
-    },
     "Image17": {
       "custom": {
         "alt": "No preview available",
@@ -1244,6 +1256,91 @@ const desktopModeProps = {
     "TextBox55": {
       "custom": {
         "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button9": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button10": {
+      "custom": {
+        "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox58": {
+      "custom": {
+        "text": "Taste the most delicious burger in Los Angeles, CA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox59": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum.  Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button11": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button12": {
+      "custom": {
+        "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image25": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c364b456b93fb50d6d_cta-restaurante-x-template.jpeg"
       },
       "callbacks": {
         "onClick": [
