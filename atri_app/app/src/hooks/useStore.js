@@ -112,6 +112,30 @@ const desktopModeProps = {
     "Flex24": {
       "callbacks": {}
     },
+    "Flex32": {
+      "callbacks": {}
+    },
+    "Flex33": {
+      "callbacks": {}
+    },
+    "Flex35": {
+      "callbacks": {}
+    },
+    "Flex36": {
+      "callbacks": {}
+    },
+    "Flex37": {
+      "callbacks": {}
+    },
+    "Flex38": {
+      "callbacks": {}
+    },
+    "Flex34": {
+      "callbacks": {}
+    },
+    "Flex39": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -569,6 +593,166 @@ const desktopModeProps = {
     "Button6": {
       "custom": {
         "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image13": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616d9a0bdba0fb13cfd32fc0_about-home-restaurante-x-template-p-1080.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox25": {
+      "custom": {
+        "text": "Come and visit us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image14": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox26": {
+      "custom": {
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image15": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c36165d583fe91702b_phone-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox27": {
+      "custom": {
+        "text": "(414) 857 - 0107"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image16": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c3400864a9087440a4_email-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox28": {
+      "custom": {
+        "text": "losangeles@restaurantex.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox29": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit enim bibendum sed et aliquet aliquet risus tempor semper odio egestas id pulvinar consectetur elit tortor non hac pellentesque lacus donec accumsan quisque ultricies adipiscing mauris tortor cras est eu accumsan mauris."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox30": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox31": {
+      "custom": {
+        "text": "About us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button7": {
+      "custom": {
+        "text": "About us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button8": {
+      "custom": {
+        "text": "Join our team"
       },
       "callbacks": {
         "onClick": [
