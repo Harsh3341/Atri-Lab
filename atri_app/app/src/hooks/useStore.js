@@ -304,6 +304,57 @@ const desktopModeProps = {
     "Flex88": {
       "callbacks": {}
     },
+    "Flex97": {
+      "callbacks": {}
+    },
+    "Flex98": {
+      "callbacks": {}
+    },
+    "Flex100": {
+      "callbacks": {}
+    },
+    "Flex103": {
+      "callbacks": {}
+    },
+    "Flex104": {
+      "callbacks": {}
+    },
+    "Flex99": {
+      "callbacks": {}
+    },
+    "Flex105": {
+      "callbacks": {}
+    },
+    "Flex107": {
+      "callbacks": {}
+    },
+    "Flex114": {
+      "callbacks": {}
+    },
+    "Flex115": {
+      "callbacks": {}
+    },
+    "Flex108": {
+      "callbacks": {}
+    },
+    "Flex116": {
+      "callbacks": {}
+    },
+    "Flex117": {
+      "callbacks": {}
+    },
+    "Flex109": {
+      "callbacks": {}
+    },
+    "Flex106": {
+      "callbacks": {}
+    },
+    "Flex110": {
+      "callbacks": {}
+    },
+    "Flex113": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -1855,6 +1906,250 @@ const desktopModeProps = {
     "TextBox68": {
       "custom": {
         "text": "Browse our articles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox80": {
+      "custom": {
+        "text": "Book your table now"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox81": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image39": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox82": {
+      "custom": {
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox83": {
+      "custom": {
+        "text": "(414) 857 - 0107"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image40": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c36165d583fe91702b_phone-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox84": {
+      "custom": {
+        "text": "losangeles@restaurentex.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image41": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c3400864a9087440a4_email-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button16": {
+      "custom": {
+        "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input4": {
+      "custom": {
+        "value": "",
+        "placeholder": "(123) 456 - 789"
+      },
+      "callbacks": {}
+    },
+    "TextBox88": {
+      "custom": {
+        "text": "Phone"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input5": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex. Los Angeles"
+      },
+      "callbacks": {}
+    },
+    "TextBox89": {
+      "custom": {
+        "text": "Location"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input6": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex. 2:00PM"
+      },
+      "callbacks": {}
+    },
+    "TextBox90": {
+      "custom": {
+        "text": "Schedule"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input7": {
+      "custom": {
+        "value": "",
+        "placeholder": "Day and month"
+      },
+      "callbacks": {}
+    },
+    "TextBox91": {
+      "custom": {
+        "text": "Date"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox92": {
+      "custom": {
+        "text": "Add a note"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input8": {
+      "custom": {
+        "value": "",
+        "placeholder": "Do you have any note for us ?"
+      },
+      "callbacks": {}
+    },
+    "TextBox85": {
+      "custom": {
+        "text": "Name"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input1": {
+      "custom": {
+        "value": "",
+        "placeholder": "John Carter"
+      },
+      "callbacks": {}
+    },
+    "Input3": {
+      "custom": {
+        "value": "",
+        "placeholder": "example@email.com"
+      },
+      "callbacks": {}
+    },
+    "TextBox87": {
+      "custom": {
+        "text": "Email Address"
       },
       "callbacks": {
         "onClick": [

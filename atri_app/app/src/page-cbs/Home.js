@@ -3088,3 +3088,638 @@ export function useFlex96Cb() {
 }), [])
 	return { onClick }
 }
+export function useFlex97Cb() {
+	const onClick = useCallback(callbackFactory("Flex97", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex98Cb() {
+	const onClick = useCallback(callbackFactory("Flex98", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex99Cb() {
+	const onClick = useCallback(callbackFactory("Flex99", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox80Cb() {
+	const onClick = useCallback(callbackFactory("TextBox80", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox81Cb() {
+	const onClick = useCallback(callbackFactory("TextBox81", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex100Cb() {
+	const onClick = useCallback(callbackFactory("Flex100", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage39Cb() {
+	const onClick = useCallback(callbackFactory("Image39", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox82Cb() {
+	const onClick = useCallback(callbackFactory("TextBox82", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox83Cb() {
+	const onClick = useCallback(callbackFactory("TextBox83", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage40Cb() {
+	const onClick = useCallback(callbackFactory("Image40", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex103Cb() {
+	const onClick = useCallback(callbackFactory("Flex103", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox84Cb() {
+	const onClick = useCallback(callbackFactory("TextBox84", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useImage41Cb() {
+	const onClick = useCallback(callbackFactory("Image41", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex104Cb() {
+	const onClick = useCallback(callbackFactory("Flex104", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex105Cb() {
+	const onClick = useCallback(callbackFactory("Flex105", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex107Cb() {
+	const onClick = useCallback(callbackFactory("Flex107", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex108Cb() {
+	const onClick = useCallback(callbackFactory("Flex108", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex109Cb() {
+	const onClick = useCallback(callbackFactory("Flex109", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useButton16Cb() {
+	const onClick = useCallback(callbackFactory("Button16", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex106Cb() {
+	const onClick = useCallback(callbackFactory("Flex106", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex110Cb() {
+	const onClick = useCallback(callbackFactory("Flex110", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox85Cb() {
+	const onClick = useCallback(callbackFactory("TextBox85", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useInput1Cb() {
+	const onChange = useCallback(callbackFactory("Input1", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input1", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
+export function useInput3Cb() {
+	const onChange = useCallback(callbackFactory("Input3", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input3", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
+export function useTextBox87Cb() {
+	const onClick = useCallback(callbackFactory("TextBox87", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex113Cb() {
+	const onClick = useCallback(callbackFactory("Flex113", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useInput4Cb() {
+	const onChange = useCallback(callbackFactory("Input4", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input4", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
+export function useTextBox88Cb() {
+	const onClick = useCallback(callbackFactory("TextBox88", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex114Cb() {
+	const onClick = useCallback(callbackFactory("Flex114", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useInput5Cb() {
+	const onChange = useCallback(callbackFactory("Input5", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input5", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
+export function useTextBox89Cb() {
+	const onClick = useCallback(callbackFactory("TextBox89", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex115Cb() {
+	const onClick = useCallback(callbackFactory("Flex115", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useInput6Cb() {
+	const onChange = useCallback(callbackFactory("Input6", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input6", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
+export function useTextBox90Cb() {
+	const onClick = useCallback(callbackFactory("TextBox90", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex116Cb() {
+	const onClick = useCallback(callbackFactory("Flex116", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useInput7Cb() {
+	const onChange = useCallback(callbackFactory("Input7", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input7", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
+export function useTextBox91Cb() {
+	const onClick = useCallback(callbackFactory("TextBox91", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useFlex117Cb() {
+	const onClick = useCallback(callbackFactory("Flex117", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox92Cb() {
+	const onClick = useCallback(callbackFactory("TextBox92", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useInput8Cb() {
+	const onChange = useCallback(callbackFactory("Input8", "Home", "/", "onChange", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "controlled",
+      "selector": [
+        "custom",
+        "value"
+      ]
+    }
+  ]
+}), [])
+	const onPressEnter = useCallback(callbackFactory("Input8", "Home", "/", "onPressEnter", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onChange,onPressEnter }
+}
