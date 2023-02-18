@@ -355,6 +355,27 @@ const desktopModeProps = {
     "Flex113": {
       "callbacks": {}
     },
+    "Flex118": {
+      "callbacks": {}
+    },
+    "Flex119": {
+      "callbacks": {}
+    },
+    "Flex121": {
+      "callbacks": {}
+    },
+    "Flex120": {
+      "callbacks": {}
+    },
+    "Flex122": {
+      "callbacks": {}
+    },
+    "Flex123": {
+      "callbacks": {}
+    },
+    "Flex124": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -2150,6 +2171,108 @@ const desktopModeProps = {
     "TextBox87": {
       "custom": {
         "text": "Email Address"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox93": {
+      "custom": {
+        "text": "Follow us on Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox94": {
+      "custom": {
+        "text": "Follow us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image42": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c40b5fd9150a07d9ad_Instagram-01-restaurante-x-template.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image43": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc9aac480169bcc819e69_classic-fries-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image44": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c3a17185be94e60f4b_Instagram-03-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image45": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbcaac6330b375d0f90ca_blog-post-featured-image-03-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image46": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c376225e7ff4d983c1_Instagram-05-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image47": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg"
       },
       "callbacks": {
         "onClick": [

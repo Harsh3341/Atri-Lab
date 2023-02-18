@@ -59345,5 +59345,3387 @@
       }
     },
     "id": "c5427815-630d-4f89-aadf-500bf41f07a1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 4570.3125
+      }
+    },
+    "id": "4db17d10-202a-4403-b7c3-244fe5bc5691"
+  },
+  {
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+    "childId": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "id": "354a2421-b467-4584-a7c2-f6d2b5c6ac76",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+    "childId": "354a2421-b467-4584-a7c2-f6d2b5c6ac76"
+  },
+  {
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "af127623-faa9-4066-99dd-ea32015d8dd6",
+        "index": 0.5
+      }
+    }
+  },
+  {
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex118"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 4570.3125
+      }
+    },
+    "id": "4db17d10-202a-4403-b7c3-244fe5bc5691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 1
+      }
+    },
+    "id": "af127623-faa9-4066-99dd-ea32015d8dd6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 1
+      }
+    },
+    "id": "af127623-faa9-4066-99dd-ea32015d8dd6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "af127623-faa9-4066-99dd-ea32015d8dd6",
+        "index": 0.5
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 1.5
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 9140.625
+      }
+    },
+    "id": "e941ec42-0db4-4e36-9ea2-2884ad5efe37"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 2
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 1
+      }
+    },
+    "id": "af127623-faa9-4066-99dd-ea32015d8dd6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 1
+      }
+    },
+    "id": "af127623-faa9-4066-99dd-ea32015d8dd6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 2
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 9140.625
+      }
+    },
+    "id": "e941ec42-0db4-4e36-9ea2-2884ad5efe37"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 9140.625
+      }
+    },
+    "id": "e941ec42-0db4-4e36-9ea2-2884ad5efe37"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 1.5
+      }
+    },
+    "id": "e941ec42-0db4-4e36-9ea2-2884ad5efe37"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 9140.625
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "4db17d10-202a-4403-b7c3-244fe5bc5691",
+        "index": 2
+      }
+    },
+    "id": "e941ec42-0db4-4e36-9ea2-2884ad5efe37"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 5712.890625
+      }
+    },
+    "id": "4db17d10-202a-4403-b7c3-244fe5bc5691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "backgroundColor": "#FFF9F3ff"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingLeft": "1px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingLeft": "10px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingLeft": "100px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "0px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "0px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "0px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "1px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "10px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "100px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "alignItems": "center"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "1px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "15px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "150px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "flexDirection": "column"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "1px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "15px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "150px"
+        }
+      }
+    },
+    "id": "2f97c0ba-c3d3-42fc-9aa0-bb1188a64dad"
+  },
+  {
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+    "childId": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "id": "69ed7582-e5ae-480b-8521-c3478dc4a390",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+    "childId": "69ed7582-e5ae-480b-8521-c3478dc4a390"
+  },
+  {
+    "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex119"
+    }
+  },
+  {
+    "id": "93905537-1a9d-4f40-80c7-beae3a3317f9",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "9d026751-868e-40f5-a3eb-55240914fde1",
+    "childId": "93905537-1a9d-4f40-80c7-beae3a3317f9"
+  },
+  {
+    "id": "1cf402ef-8b71-4e0b-9a20-d782ac3886c3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "9d026751-868e-40f5-a3eb-55240914fde1",
+    "childId": "1cf402ef-8b71-4e0b-9a20-d782ac3886c3"
+  },
+  {
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    }
+  },
+  {
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex120"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 1
+      }
+    },
+    "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 1
+      }
+    },
+    "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "%"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "1%"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "10%"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "100%"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "alignItems": "center"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "justifyContent": "space-between"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "3px"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "30px"
+        }
+      }
+    },
+    "id": "861f3063-ec77-4e3c-93bd-fe91eab0b2c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "columnGap": "3px"
+        }
+      }
+    },
+    "id": "93905537-1a9d-4f40-80c7-beae3a3317f9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "columnGap": "30px"
+        }
+      }
+    },
+    "id": "93905537-1a9d-4f40-80c7-beae3a3317f9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 1
+      }
+    },
+    "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c"
+  },
+  {
+    "id": "eca5af35-b06b-4404-9fcc-1a2e78db6647",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "b1e5f7ce-3298-4212-a544-873ff1dbab30",
+    "childId": "eca5af35-b06b-4404-9fcc-1a2e78db6647"
+  },
+  {
+    "id": "52a2f274-0e39-42e7-adf2-3c15e9e89989",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Your text Here!"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "b1e5f7ce-3298-4212-a544-873ff1dbab30",
+    "childId": "52a2f274-0e39-42e7-adf2-3c15e9e89989"
+  },
+  {
+    "id": "b4a0b4d3-f087-425d-94a6-79547d460476",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "b1e5f7ce-3298-4212-a544-873ff1dbab30",
+    "childId": "b4a0b4d3-f087-425d-94a6-79547d460476"
+  },
+  {
+    "id": "b1e5f7ce-3298-4212-a544-873ff1dbab30",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "b1e5f7ce-3298-4212-a544-873ff1dbab30",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "TextBox93"
+    }
+  },
+  {
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "146e0d9d-3280-4b5d-bdb4-60cab682c03e",
+    "childId": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "id": "83baedbb-7160-466e-aee0-7bebf906755d",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "146e0d9d-3280-4b5d-bdb4-60cab682c03e",
+    "childId": "83baedbb-7160-466e-aee0-7bebf906755d"
+  },
+  {
+    "id": "146e0d9d-3280-4b5d-bdb4-60cab682c03e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+        "index": 0.5
+      }
+    }
+  },
+  {
+    "id": "146e0d9d-3280-4b5d-bdb4-60cab682c03e",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex121"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 1
+      }
+    },
+    "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+        "index": 0.25
+      }
+    },
+    "id": "b1e5f7ce-3298-4212-a544-873ff1dbab30"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+        "index": 0.25
+      }
+    },
+    "id": "b1e5f7ce-3298-4212-a544-873ff1dbab30"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Follow us on Instagram"
+        }
+      }
+    },
+    "id": "52a2f274-0e39-42e7-adf2-3c15e9e89989"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontFamily": "DM Sans"
+        }
+      }
+    },
+    "id": "eca5af35-b06b-4404-9fcc-1a2e78db6647"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 500
+        }
+      }
+    },
+    "id": "eca5af35-b06b-4404-9fcc-1a2e78db6647"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 700
+        }
+      }
+    },
+    "id": "eca5af35-b06b-4404-9fcc-1a2e78db6647"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "3px"
+        }
+      }
+    },
+    "id": "eca5af35-b06b-4404-9fcc-1a2e78db6647"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "32px"
+        }
+      }
+    },
+    "id": "eca5af35-b06b-4404-9fcc-1a2e78db6647"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d66ba355-2f3f-4ebc-9e09-4b65fc2bb88c",
+        "index": 0.5
+      }
+    },
+    "id": "146e0d9d-3280-4b5d-bdb4-60cab682c03e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "0px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "0px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "1px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingTop": "15px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingLeft": "3px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingLeft": "30px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "3px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingRight": "30px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "1px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "15px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "3px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "35px"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "backgroundColor": "#FF7629ff"
+        }
+      }
+    },
+    "id": "e7868de6-5126-43fe-8b2a-6a034ec60d63"
+  },
+  {
+    "id": "c7fff739-5f98-47b4-9b0a-9451913d8cba",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "90cd66c4-907a-4576-8997-4c3ae83f4d8d",
+    "childId": "c7fff739-5f98-47b4-9b0a-9451913d8cba"
+  },
+  {
+    "id": "58988c3f-0e20-4d01-afa4-f0d9663673d1",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Your text Here!"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "90cd66c4-907a-4576-8997-4c3ae83f4d8d",
+    "childId": "58988c3f-0e20-4d01-afa4-f0d9663673d1"
+  },
+  {
+    "id": "6d6efc25-0f16-41bb-a91b-c20d97c20797",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "90cd66c4-907a-4576-8997-4c3ae83f4d8d",
+    "childId": "6d6efc25-0f16-41bb-a91b-c20d97c20797"
+  },
+  {
+    "id": "90cd66c4-907a-4576-8997-4c3ae83f4d8d",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "146e0d9d-3280-4b5d-bdb4-60cab682c03e",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "90cd66c4-907a-4576-8997-4c3ae83f4d8d",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "TextBox94"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Follow us"
+        }
+      }
+    },
+    "id": "58988c3f-0e20-4d01-afa4-f0d9663673d1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontFamily": "DM Sans"
+        }
+      }
+    },
+    "id": "c7fff739-5f98-47b4-9b0a-9451913d8cba"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 500
+        }
+      }
+    },
+    "id": "c7fff739-5f98-47b4-9b0a-9451913d8cba"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "1px"
+        }
+      }
+    },
+    "id": "c7fff739-5f98-47b4-9b0a-9451913d8cba"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "18px"
+        }
+      }
+    },
+    "id": "c7fff739-5f98-47b4-9b0a-9451913d8cba"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#ffffffff"
+        }
+      }
+    },
+    "id": "c7fff739-5f98-47b4-9b0a-9451913d8cba"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "id": "d57941db-0976-463f-ab8a-6143197afda3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "ae2d5772-5592-4299-8bc0-8123e5a8ef31",
+    "childId": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "id": "bb8b94f6-3220-4497-b34f-88c19b9b850a",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "ae2d5772-5592-4299-8bc0-8123e5a8ef31",
+    "childId": "bb8b94f6-3220-4497-b34f-88c19b9b850a"
+  },
+  {
+    "id": "02ad7ab3-6123-4db4-9d0d-10edc1cd1340",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "ae2d5772-5592-4299-8bc0-8123e5a8ef31",
+    "childId": "02ad7ab3-6123-4db4-9d0d-10edc1cd1340"
+  },
+  {
+    "id": "ae2d5772-5592-4299-8bc0-8123e5a8ef31",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "ae2d5772-5592-4299-8bc0-8123e5a8ef31",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Image42"
+    }
+  },
+  {
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "6f520df7-ce6e-44c1-bb85-12667109de77",
+    "childId": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "id": "e4a668b2-6b8c-4a6b-8bc0-228b3101d784",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "6f520df7-ce6e-44c1-bb85-12667109de77",
+    "childId": "e4a668b2-6b8c-4a6b-8bc0-228b3101d784"
+  },
+  {
+    "id": "267753c3-e8ae-4f27-8c67-24fd50b6844b",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "6f520df7-ce6e-44c1-bb85-12667109de77",
+    "childId": "267753c3-e8ae-4f27-8c67-24fd50b6844b"
+  },
+  {
+    "id": "6f520df7-ce6e-44c1-bb85-12667109de77",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 2
+      }
+    }
+  },
+  {
+    "id": "6f520df7-ce6e-44c1-bb85-12667109de77",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Image43"
+    }
+  },
+  {
+    "id": "eb17d35e-a4fd-49d6-be5f-ce1edb864eec",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+    "childId": "eb17d35e-a4fd-49d6-be5f-ce1edb864eec"
+  },
+  {
+    "id": "44db8275-16a0-4fe2-b514-15e857f9c876",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+    "childId": "44db8275-16a0-4fe2-b514-15e857f9c876"
+  },
+  {
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 4
+      }
+    }
+  },
+  {
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex122"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 1
+      }
+    },
+    "id": "ae2d5772-5592-4299-8bc0-8123e5a8ef31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c40b5fd9150a07d9ad_Instagram-01-restaurante-x-template.jpeg"
+        }
+      }
+    },
+    "id": "bb8b94f6-3220-4497-b34f-88c19b9b850a"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 1
+      }
+    },
+    "id": "ae2d5772-5592-4299-8bc0-8123e5a8ef31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "3px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "30px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "300px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "3px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "30px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "300px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "3px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "35px"
+        }
+      }
+    },
+    "id": "d57941db-0976-463f-ab8a-6143197afda3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 2.5
+      }
+    },
+    "id": "6f520df7-ce6e-44c1-bb85-12667109de77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 2.5
+      }
+    },
+    "id": "6f520df7-ce6e-44c1-bb85-12667109de77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616dc9aac480169bcc819e69_classic-fries-restaurante-x-template-p-500.jpeg"
+        }
+      }
+    },
+    "id": "e4a668b2-6b8c-4a6b-8bc0-228b3101d784"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 2.5
+      }
+    },
+    "id": "6f520df7-ce6e-44c1-bb85-12667109de77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "3px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "30px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "300px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "3px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "30px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "300px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "3px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "35px"
+        }
+      }
+    },
+    "id": "3e81839a-cf1b-4cc2-9974-f33bd315f1f3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "flexDirection": "column"
+        }
+      }
+    },
+    "id": "eb17d35e-a4fd-49d6-be5f-ce1edb864eec"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "rowGap": "2px"
+        }
+      }
+    },
+    "id": "eb17d35e-a4fd-49d6-be5f-ce1edb864eec"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "rowGap": "20px"
+        }
+      }
+    },
+    "id": "eb17d35e-a4fd-49d6-be5f-ce1edb864eec"
+  },
+  {
+    "id": "b9c376ee-9feb-40d3-a2f2-257872d98e61",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+    "childId": "b9c376ee-9feb-40d3-a2f2-257872d98e61"
+  },
+  {
+    "id": "117f9f0c-4a81-41a6-a30d-95876eb391b0",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+    "childId": "117f9f0c-4a81-41a6-a30d-95876eb391b0"
+  },
+  {
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex123"
+    }
+  },
+  {
+    "id": "58a2b4e8-df71-4e49-adf6-e1b17c478edd",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "c2447125-c66c-433a-968e-b26152453ecb",
+    "childId": "58a2b4e8-df71-4e49-adf6-e1b17c478edd"
+  },
+  {
+    "id": "535a79f7-4410-41d2-8811-425a0260f72e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "c2447125-c66c-433a-968e-b26152453ecb",
+    "childId": "535a79f7-4410-41d2-8811-425a0260f72e"
+  },
+  {
+    "id": "c2447125-c66c-433a-968e-b26152453ecb",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    }
+  },
+  {
+    "id": "c2447125-c66c-433a-968e-b26152453ecb",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex124"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "columnGap": "2px"
+        }
+      }
+    },
+    "id": "b9c376ee-9feb-40d3-a2f2-257872d98e61"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "columnGap": "20px"
+        }
+      }
+    },
+    "id": "b9c376ee-9feb-40d3-a2f2-257872d98e61"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    },
+    "id": "c2447125-c66c-433a-968e-b26152453ecb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "columnGap": "2px"
+        }
+      }
+    },
+    "id": "58a2b4e8-df71-4e49-adf6-e1b17c478edd"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "columnGap": "20px"
+        }
+      }
+    },
+    "id": "58a2b4e8-df71-4e49-adf6-e1b17c478edd"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb",
+    "childId": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "id": "bb48ab13-aa84-40bc-bd8f-76f1cbbbdb92",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb",
+    "childId": "bb48ab13-aa84-40bc-bd8f-76f1cbbbdb92"
+  },
+  {
+    "id": "20deb8b8-7a69-483e-9654-bf2f822f92e3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb",
+    "childId": "20deb8b8-7a69-483e-9654-bf2f822f92e3"
+  },
+  {
+    "id": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Image44"
+    }
+  },
+  {
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1",
+    "childId": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "id": "6ceba65b-9274-4de7-93e5-60f56c6d7d4b",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1",
+    "childId": "6ceba65b-9274-4de7-93e5-60f56c6d7d4b"
+  },
+  {
+    "id": "f6f3efc8-f1f6-4ff5-8a4d-c6806cd11189",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1",
+    "childId": "f6f3efc8-f1f6-4ff5-8a4d-c6806cd11189"
+  },
+  {
+    "id": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 2
+      }
+    }
+  },
+  {
+    "id": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Image45"
+    }
+  },
+  {
+    "id": "91c8b874-8978-42f1-8845-84d81b788834",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e",
+    "childId": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "id": "50b868a9-9037-4a52-a82f-a18e2574edd0",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e",
+    "childId": "50b868a9-9037-4a52-a82f-a18e2574edd0"
+  },
+  {
+    "id": "e7a96bd7-bf51-4109-b812-ebece30fa9ed",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e",
+    "childId": "e7a96bd7-bf51-4109-b812-ebece30fa9ed"
+  },
+  {
+    "id": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 1
+      }
+    }
+  },
+  {
+    "id": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Image46"
+    }
+  },
+  {
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "4652fa64-f875-400a-aa97-f41a37dd55f6",
+    "childId": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "id": "e7d0dbfe-859b-4f49-9b90-024c9d3770e3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "4652fa64-f875-400a-aa97-f41a37dd55f6",
+    "childId": "e7d0dbfe-859b-4f49-9b90-024c9d3770e3"
+  },
+  {
+    "id": "1ef5eb17-d555-4e63-93ce-93d304ddc4f0",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "4652fa64-f875-400a-aa97-f41a37dd55f6",
+    "childId": "1ef5eb17-d555-4e63-93ce-93d304ddc4f0"
+  },
+  {
+    "id": "4652fa64-f875-400a-aa97-f41a37dd55f6",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 2
+      }
+    }
+  },
+  {
+    "id": "4652fa64-f875-400a-aa97-f41a37dd55f6",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Image47"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 1
+      }
+    },
+    "id": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c3a17185be94e60f4b_Instagram-03-restaurante-x-template-p-500.jpeg"
+        }
+      }
+    },
+    "id": "bb48ab13-aa84-40bc-bd8f-76f1cbbbdb92"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 1
+      }
+    },
+    "id": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "1px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "14px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "145px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "1px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "14px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "145px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "2px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "25px"
+        }
+      }
+    },
+    "id": "6f78cbfa-bac1-41a5-830c-43cf43b9b4cc"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 2
+      }
+    },
+    "id": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616dbcaac6330b375d0f90ca_blog-post-featured-image-03-restaurante-x-template-p-500.jpeg"
+        }
+      }
+    },
+    "id": "6ceba65b-9274-4de7-93e5-60f56c6d7d4b"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 2
+      }
+    },
+    "id": "c2c6f4ed-fd30-436b-8036-877c0b4b94d1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "1px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "14px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "145px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "1px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "14px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "145px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "2px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "25px"
+        }
+      }
+    },
+    "id": "e92d21ed-baf4-4fe5-9521-f10a378f47c2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 4
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77",
+        "index": 1
+      }
+    },
+    "id": "f130ba20-5ee0-4268-a5ea-fc947ce9c9cb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 1
+      }
+    },
+    "id": "e6fb64fd-0fe5-4ed5-9a84-07a3ff6b9d77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    },
+    "id": "c2447125-c66c-433a-968e-b26152453ecb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 1
+      }
+    },
+    "id": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c376225e7ff4d983c1_Instagram-05-restaurante-x-template-p-500.jpeg"
+        }
+      }
+    },
+    "id": "50b868a9-9037-4a52-a82f-a18e2574edd0"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    },
+    "id": "c2447125-c66c-433a-968e-b26152453ecb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 1
+      }
+    },
+    "id": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "1px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "14px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "145px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "1px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "14px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "145px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "2px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "25px"
+        }
+      }
+    },
+    "id": "91c8b874-8978-42f1-8845-84d81b788834"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 2
+      }
+    },
+    "id": "4652fa64-f875-400a-aa97-f41a37dd55f6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg"
+        }
+      }
+    },
+    "id": "e7d0dbfe-859b-4f49-9b90-024c9d3770e3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    },
+    "id": "c2447125-c66c-433a-968e-b26152453ecb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 2
+      }
+    },
+    "id": "4652fa64-f875-400a-aa97-f41a37dd55f6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "1px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "14px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "width": "145px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "1px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "14px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "height": "145px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderWidth": "2px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderWidth": "25px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    },
+    "id": "c2447125-c66c-433a-968e-b26152453ecb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 11425.78125
+      }
+    },
+    "id": "d7e64cce-5006-4380-90bc-4836dfdde67e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d7e64cce-5006-4380-90bc-4836dfdde67e",
+        "index": 2
+      }
+    },
+    "id": "9d026751-868e-40f5-a3eb-55240914fde1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "9d026751-868e-40f5-a3eb-55240914fde1",
+        "index": 5
+      }
+    },
+    "id": "d4813134-bf15-4345-b2f7-37d48506bbd9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "d4813134-bf15-4345-b2f7-37d48506bbd9",
+        "index": 2
+      }
+    },
+    "id": "c2447125-c66c-433a-968e-b26152453ecb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 1
+      }
+    },
+    "id": "cb9a17f3-9e01-4b40-a1bf-60f567bc8a2e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "c2447125-c66c-433a-968e-b26152453ecb",
+        "index": 2
+      }
+    },
+    "id": "4652fa64-f875-400a-aa97-f41a37dd55f6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "2px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "25px"
+        }
+      }
+    },
+    "id": "214a8913-65b5-40ab-8767-9f3b508ae3d9"
   }
 ]
