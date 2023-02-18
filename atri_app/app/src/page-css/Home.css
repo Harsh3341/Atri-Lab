@@ -501,6 +501,100 @@ display: flex;
 .p-Home.Flex76 {
 display: flex;
 }
+.p-Home.Flex85 {
+display: flex;
+padding-top: 150px;
+background-color: #FFF9F3ff;
+padding-left: 100px;
+padding-right: 100px;
+flex-direction: column;
+width: 100%;
+box-sizing: border-box;
+padding-bottom: 100px;
+}
+.p-Home.Flex86 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex89 {
+display: flex;
+width: 50%;
+flex-direction: column;
+background-color: #fffefeff;
+row-gap: 10px;
+border-radius: 35px;
+}
+.p-Home.Flex90 {
+display: flex;
+width: 60%;
+flex-direction: column;
+row-gap: 30px;
+}
+.p-Home.Flex91 {
+display: flex;
+column-gap: 30px;
+align-items: center;
+justify-content: center;
+}
+.p-Home.Flex93 {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefeff;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex94 {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefeff;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex92 {
+display: flex;
+column-gap: 30px;
+justify-content: center;
+align-items: center;
+}
+.p-Home.Flex95 {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefeff;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex96 {
+display: flex;
+width: 40%;
+flex-direction: column;
+background-color: #fffefeff;
+row-gap: 10px;
+border-radius: 35px;
+padding-bottom: 20px;
+}
+.p-Home.Flex87 {
+display: flex;
+width: 100%;
+align-items: center;
+justify-content: space-between;
+padding-bottom: 30px;
+box-sizing: content-box;
+}
+.p-Home.Flex88 {
+display: flex;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 35px;
+background-color: #ffffffff;
+}
 .p-Home.Image2 {
 cursor: pointer;
 }
@@ -1287,4 +1381,131 @@ padding-left: 5px;
 padding-top: 5px;
 border-radius: 50px;
 color: #ffffffff;
+}
+.p-Home.Image34 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+height: 70%;
+}
+.p-Home.TextBox69 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 26px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox70 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 15px;
+color: #737373ff;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox71 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 15px;
+color: #8f8f8fff;
+padding-left: 20px;
+padding-bottom: 30px;
+padding-right: 10px;
+}
+.p-Home.Image35 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.TextBox72 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 15px;
+color: #737373ff;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 10px;
+padding-bottom: ;
+}
+.p-Home.TextBox73 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox74 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox75 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 15px;
+color: #737373ff;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 10px;
+padding-bottom: ;
+}
+.p-Home.Image36 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.TextBox76 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox77 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 15px;
+color: #737373ff;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 10px;
+padding-bottom: ;
+}
+.p-Home.Image37 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.TextBox78 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 16px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.TextBox79 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 15px;
+color: #737373ff;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 10px;
+padding-bottom: ;
+}
+.p-Home.Image38 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.TextBox67 {
+font-family: DM Sans;
+font-weight: 700;
+font-size: 32px;
+}
+.p-Home.TextBox68 {
+;
 }

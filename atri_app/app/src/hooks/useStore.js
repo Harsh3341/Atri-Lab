@@ -268,6 +268,42 @@ const desktopModeProps = {
     "Flex76": {
       "callbacks": {}
     },
+    "Flex85": {
+      "callbacks": {}
+    },
+    "Flex86": {
+      "callbacks": {}
+    },
+    "Flex89": {
+      "callbacks": {}
+    },
+    "Flex90": {
+      "callbacks": {}
+    },
+    "Flex91": {
+      "callbacks": {}
+    },
+    "Flex93": {
+      "callbacks": {}
+    },
+    "Flex94": {
+      "callbacks": {}
+    },
+    "Flex92": {
+      "callbacks": {}
+    },
+    "Flex95": {
+      "callbacks": {}
+    },
+    "Flex96": {
+      "callbacks": {}
+    },
+    "Flex87": {
+      "callbacks": {}
+    },
+    "Flex88": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -1598,6 +1634,227 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/right-arrow-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image34": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbe9e3823ad75e50cfc8d_blog-post-featured-image-01-restaurante-x-template.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox69": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox70": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox71": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipisc"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image35": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbcaac6330b375d0f90ca_blog-post-featured-image-03-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox72": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox73": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox74": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox75": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image36": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbc8ef398638f6395578f_blog-post-featured-image-04-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox76": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox77": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image37": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbc58e6083f444f1883f5_blog-post-featured-image-05-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox78": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox79": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image38": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbb79aa873fb79780189b_blog-post-featured-image-06-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox67": {
+      "custom": {
+        "text": "Our articles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox68": {
+      "custom": {
+        "text": "Browse our articles"
       },
       "callbacks": {
         "onClick": [
