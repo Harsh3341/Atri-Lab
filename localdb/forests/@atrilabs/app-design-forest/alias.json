@@ -1,8 +1,9 @@
 {
   "BarChart": 1,
-  "Flex": 69,
+  "Flex": 84,
   "Div": 18,
-  "Image": 25,
-  "TextBox": 59,
-  "Button": 12
+  "Image": 33,
+  "TextBox": 66,
+  "Button": 14,
+  "Carousel": 3
 }
