@@ -864,3 +864,35 @@ export function useTextBox22Cb() {
 }), [])
 	return { onClick }
 }
+export function useButton5Cb() {
+	const onClick = useCallback(callbackFactory("Button5", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useButton6Cb() {
+	const onClick = useCallback(callbackFactory("Button6", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}

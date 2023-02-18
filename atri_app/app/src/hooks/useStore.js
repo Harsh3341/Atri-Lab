@@ -109,6 +109,9 @@ const desktopModeProps = {
     "Flex30": {
       "callbacks": {}
     },
+    "Flex24": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -355,9 +358,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex24": {
-      "callbacks": {}
-    },
     "Image8": {
       "custom": {
         "alt": "No preview available",
@@ -545,6 +545,30 @@ const desktopModeProps = {
     "TextBox22": {
       "custom": {
         "text": "Explore Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button5": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button6": {
+      "custom": {
+        "text": "Book a table"
       },
       "callbacks": {
         "onClick": [
