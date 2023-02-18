@@ -136,6 +136,78 @@ const desktopModeProps = {
     "Flex39": {
       "callbacks": {}
     },
+    "Flex40": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
+    "Flex42": {
+      "callbacks": {}
+    },
+    "Flex45": {
+      "callbacks": {}
+    },
+    "Flex47": {
+      "callbacks": {}
+    },
+    "Flex49": {
+      "callbacks": {}
+    },
+    "Flex48": {
+      "callbacks": {}
+    },
+    "Flex50": {
+      "callbacks": {}
+    },
+    "Flex46": {
+      "callbacks": {}
+    },
+    "Flex51": {
+      "callbacks": {}
+    },
+    "Flex53": {
+      "callbacks": {}
+    },
+    "Flex55": {
+      "callbacks": {}
+    },
+    "Flex54": {
+      "callbacks": {}
+    },
+    "Flex43": {
+      "callbacks": {}
+    },
+    "Flex64": {
+      "callbacks": {}
+    },
+    "Flex57": {
+      "callbacks": {}
+    },
+    "Flex56": {
+      "callbacks": {}
+    },
+    "Flex59": {
+      "callbacks": {}
+    },
+    "Flex58": {
+      "callbacks": {}
+    },
+    "Flex65": {
+      "callbacks": {}
+    },
+    "Flex61": {
+      "callbacks": {}
+    },
+    "Flex60": {
+      "callbacks": {}
+    },
+    "Flex63": {
+      "callbacks": {}
+    },
+    "Flex62": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -753,6 +825,425 @@ const desktopModeProps = {
     "Button8": {
       "custom": {
         "text": "Join our team"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox32": {
+      "custom": {
+        "text": "Browse our menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox33": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex44": {
+      "callbacks": {}
+    },
+    "Image17": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dca333c0bd679a77bec56_classic-burger-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox34": {
+      "custom": {
+        "text": "Classic Burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "custom": {
+        "text": "$ 10.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image18": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc9ba43f4163d5f7b436e_chocolate-milkshake-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "custom": {
+        "text": "Choclate Milkshake"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image19": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c360af92b81a49e435_Instagram-02-restaurante-x-template.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox40": {
+      "custom": {
+        "text": "Classic Fries"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "$ 5.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
+      "custom": {
+        "text": "Pancakes"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image20": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc56043f416c4db7b3322_pancakes-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox43": {
+      "custom": {
+        "text": "$ 8.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox47": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox48": {
+      "custom": {
+        "text": "Ice Cream"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image21": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc50743f41639377b2fd8_ice-cream-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox46": {
+      "custom": {
+        "text": "$ 3.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox50": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox51": {
+      "custom": {
+        "text": "Chicken Burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image22": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc4d28ae55806547e5dba_chicken-burger-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox49": {
+      "custom": {
+        "text": "$ 9.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox53": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox54": {
+      "custom": {
+        "text": "Regular Soda"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image23": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc414d54d4e45ccac841f_regular-soda-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox52": {
+      "custom": {
+        "text": "$ 1.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image24": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc4908009251d2f5ac06b_egg-toast-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox56": {
+      "custom": {
+        "text": "Egg toast"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox57": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox55": {
+      "custom": {
+        "text": "$ 6.99 USD"
       },
       "callbacks": {
         "onClick": [
