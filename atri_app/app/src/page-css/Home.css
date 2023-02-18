@@ -750,6 +750,71 @@ column-gap: 20px;
 display: flex;
 column-gap: 20px;
 }
+.p-Home.Flex125 {
+display: flex;
+padding-top: 100px;
+padding-left: 150px;
+padding-right: 150px;
+column-gap: 40px;
+padding-bottom: 50px;
+justify-content: space-between;
+}
+.p-Home.Flex126 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+row-gap: 13px;
+width: 40%;
+}
+.p-Home.Flex129 {
+display: flex;
+column-gap: 10px;
+}
+.p-Home.Flex127 {
+display: flex;
+}
+.p-Home.Flex130 {
+display: flex;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 20px;
+align-items: flex-start;
+flex-direction: column;
+row-gap: 10px;
+padding-left: 5px;
+padding-right: 5px;
+}
+.p-Home.Flex132 {
+display: flex;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 20px;
+align-items: flex-start;
+flex-direction: column;
+row-gap: 10px;
+padding-left: 5px;
+padding-right: 5px;
+}
+.p-Home.Flex128 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 20px;
+}
+.p-Home.Flex136 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex134 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Flex135 {
+display: flex;
+column-gap: 20px;
+}
 .p-Home.Image2 {
 cursor: pointer;
 }
@@ -1908,5 +1973,182 @@ border-radius: 25px;
 width: 145px;
 height: 145px;
 border-width: 25px;
+border-radius: 25px;
+}
+.p-Home.Image48 {
+;
+}
+.p-Home.TextBox95 {
+width: 100%;
+font-family: DM Sans;
+font-weight: 500;
+color: #6a6868ff;
+}
+.p-Home.Image49 {
+width: 30px;
+height: 30px;
+}
+.p-Home.Image50 {
+width: 30px;
+height: 30px;
+}
+.p-Home.Image51 {
+width: 30px;
+height: 30px;
+}
+.p-Home.Image52 {
+width: 30px;
+height: 30px;
+}
+.p-Home.Image53 {
+width: 30px;
+height: 30px;
+}
+.p-Home.TextBox96 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox97 {
+padding-bottom: 20px;
+padding-right: 40px;
+font-size: 20px;
+}
+.p-Home.TextBox98 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox99 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox100 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox101 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox102 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox103 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox104 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox105 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox106 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox107 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox108 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox109 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox110 {
+padding-bottom: 20px;
+padding-right: 40px;
+font-size: 20px;
+}
+.p-Home.TextBox111 {
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #7f7c7cff;
+}
+.p-Home.TextBox112 {
+font-family: DM Sans;
+font-weight: 500;
+font-size: 20px;
+}
+.p-Home.Image54 {
+width: 145px;
+height: 145px;
+border-width: 25px;
+border-radius: 25px;
+}
+.p-Home.Image55 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.Image56 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.Image57 {
+width: 145px;
+height: 145px;
 border-radius: 25px;
 }

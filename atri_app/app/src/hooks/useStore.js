@@ -376,6 +376,36 @@ const desktopModeProps = {
     "Flex124": {
       "callbacks": {}
     },
+    "Flex125": {
+      "callbacks": {}
+    },
+    "Flex126": {
+      "callbacks": {}
+    },
+    "Flex129": {
+      "callbacks": {}
+    },
+    "Flex127": {
+      "callbacks": {}
+    },
+    "Flex130": {
+      "callbacks": {}
+    },
+    "Flex132": {
+      "callbacks": {}
+    },
+    "Flex128": {
+      "callbacks": {}
+    },
+    "Flex136": {
+      "callbacks": {}
+    },
+    "Flex134": {
+      "callbacks": {}
+    },
+    "Flex135": {
+      "callbacks": {}
+    },
     "Image2": {
       "custom": {
         "alt": "No preview available",
@@ -2273,6 +2303,352 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image48": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/LOgo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox95": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image49": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image50": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image51": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image52": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image53": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox96": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox97": {
+      "custom": {
+        "text": "Pages"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox98": {
+      "custom": {
+        "text": "Home"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox99": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox100": {
+      "custom": {
+        "text": "Blog Post"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox101": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox102": {
+      "custom": {
+        "text": "Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox103": {
+      "custom": {
+        "text": "Delivery"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox104": {
+      "custom": {
+        "text": "Delivery"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox105": {
+      "custom": {
+        "text": "Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox106": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox107": {
+      "custom": {
+        "text": "Blog Post"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox108": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox109": {
+      "custom": {
+        "text": "Home"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox110": {
+      "custom": {
+        "text": "Utility"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox111": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox112": {
+      "custom": {
+        "text": "Follow us on Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image54": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c39920b1572849ffce_Instagram-06-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image55": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c376225e7ff4d983c1_Instagram-05-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image56": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dbcaac6330b375d0f90ca_blog-post-featured-image-03-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image57": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c3a17185be94e60f4b_Instagram-03-restaurante-x-template-p-500.jpeg"
       },
       "callbacks": {
         "onClick": [
